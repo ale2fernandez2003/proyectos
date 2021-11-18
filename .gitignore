@@ -4,3 +4,10 @@ if (tractor amarillo){
 else {
 	no es la moda 
 }
+
+if (vaca lechera){
+	da leche
+} 
+else {
+	no de leche 
+}
